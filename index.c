@@ -140,5 +140,7 @@ int main()
     printf("PIB: %.2f bilhões\n", pib2);
     printf("Pontos turísticos: %d\n", prontos_turisticos2);
 
+    printf("FIM DO JOGO" \N);
+
     return 0;
 }
